@@ -1,4 +1,4 @@
-🐾 Pet Image Classification Using Deep Learning
+i🐾 Pet Image Classification Using Deep Learning
 
 This project focuses on building an image classification system capable of identifying different breeds of cats and dogs using deep learning techniques. It demonstrates how computer vision and neural networks can be applied to solve real-world problems involving image recognition and pattern detection.
 
@@ -16,4 +16,4 @@ Once trained, the model can be used to predict the breed of a pet from a given i
 
 Overall, this project provides a comprehensive introduction to image classification using deep learning. It covers key concepts such as data preprocessing, label encoding, batch training, and model building. It also highlights the importance of proper data handling and preparation in achieving accurate results.
 
-This project can be further enhanced by incorporating advanced techniques such as transfer learning with pre-trained models (e.g., VGG16, ResNet), data augmentation to improve generalization, and hyperparameter tuning to optimize performance. Additionally, deploying the model as a web or mobile application could make it more accessible for real-world use.
+This project can be further enhanced by incorporating advanced techniques such as transfer learning with pre-trained models (e.g., VGG16, ResNet), data augmentation to improve generalization, and hyperparameter tuning to optimize performance. Additionally, deploying the model as a web or mobile application could make it more accessible for REAL-WORLD USE.
